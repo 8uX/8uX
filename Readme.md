@@ -1,12 +1,6 @@
----
-<details open>
- <summary> <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Syz9&show_icons=true&theme=midnight-purple&line_height=27">
-</p>
-</details>
-
+## 𝙎𝙔𝙕 𝙍𝙀𝘼𝘿𝙈𝙀
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Syz9&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syz9&layout=compact&theme=midnight-purple)
 ```
 ███████╗██╗   ██╗███████╗
 ██╔════╝╚██╗ ██╔╝╚══███╔╝
