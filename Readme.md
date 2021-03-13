@@ -1,6 +1,6 @@
-## 𝙎𝙔𝙕 𝙍𝙀𝘼𝘿𝙈𝙀
+## SYZ README
 <details open>
- <summary><b>𝙎𝙔𝙕</b>: </summary>
+ <summary><b>Syz</b>: </summary>
 <div align="center">
     <table>
         <tr>
