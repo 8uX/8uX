@@ -1,6 +1,6 @@
 ## 𝙎𝙔𝙕 𝙍𝙀𝘼𝘿𝙈𝙀
 <details open>
- <summary><b>My Github Profile Readme</b>: </summary>
+ <summary><b>𝙎𝙔𝙕</b>: </summary>
 <div align="center">
     <table>
         <tr>
