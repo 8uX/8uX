@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Syz ✨</h1>
+
 <h3 align="center">A random dumb skid 💸</h3>
 <details open>
  <summary> ✨ <b>Info</b>: </summary>
-- 📫 How to reach me <b>Syz@asia.com</b>
-
+- 📫 How to reach me <a href="mailto:Syz@asia.com"><b>Syz@asia.com</b></a>
 - ⚡ Fun fact <b>I am dumb</b>
 </details>
 
