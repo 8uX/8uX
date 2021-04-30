@@ -4,7 +4,7 @@
 <details open>
  <summary> ✨ <b>Info</b>: </summary>
 - 📫 How to reach me <a href="mailto:Syz@asia.com"><b>Syz@asia.com</b></a>
-- ⚡ Fun fact <b>I am dumb</b>
+<br>- ⚡ Fun fact <b>I am dumb</b>
 </details>
 
 <details open>
