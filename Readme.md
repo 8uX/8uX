@@ -2,9 +2,9 @@
 <h3 align="center">A random dumb skid 💸</h3>
 <details open>
  <summary> ✨ <b>Info</b>: </summary>
-- 📫 How to reach me **Syz@asia.com**
+- 📫 How to reach me <b>Syz@asia.com**</b>
 
-- ⚡ Fun fact **I am dumb**
+- ⚡ Fun fact <b>I am dumb</b>
 </details>
 
 <details open>
