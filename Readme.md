@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Syz ✨</h1>
 <h3 align="center">A random dumb skid 💸</h3>
-
+<details open>
+ <summary> ✨ <b>Info</b>: </summary>
 - 📫 How to reach me **Syz@asia.com**
 
 - ⚡ Fun fact **I am dumb**
+</details>
 
 <details open>
  <summary> 💸 <b>My Github Stats</b>: </summary>
