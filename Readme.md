@@ -3,8 +3,13 @@
 <h3 align="center">A random dumb skid 💸</h3>
 <details open>
  <summary> ✨ <b>Info</b>: </summary>
+ <p align = "center">
 - 📫 How to reach me <a href="mailto:Syz@asia.com"><b>Syz@asia.com</b></a>
+ </p>
+
+ <p align = "center">
 <br>- ⚡ Fun fact <b>I am dumb</b>
+ </p>
 </details>
 
 <details open>
