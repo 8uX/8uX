@@ -5,7 +5,6 @@
  <summary> ✨ <b>Info</b>: </summary>
  <p align = "center">
 - 📫 How to reach me <a href="mailto:Syz@asia.com"><b>Syz@asia.com</b></a>
-<br>- 🌌 YouTube Channel <a href="https://www.youtube.com/channel/UCCzqc1rjYrs8HJaq7EL2h7Q?sub_confirmation=1"><b>Here</b></a>
  </p>
 </details>
 
