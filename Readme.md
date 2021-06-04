@@ -12,7 +12,7 @@
  <summary> 💸 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-stats-51zyiojh0.vercel.app/api?username=k6d&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false">
+  <img src = "https://github-readme-stats.vercel.app/api?username=k6d&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false">
 </p>
 
 <p align = "center">
